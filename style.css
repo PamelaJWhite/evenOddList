@@ -1,0 +1,26 @@
+form, body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Staatliches', cursive;
+    background-color: #f8d430;
+    font-size: 30px;
+}
+
+
+input{
+    font-family: 'Staatliches', cursive;
+    font-size: 25px;
+    background-color: #f59f50;
+}
+
+input:hover {
+    background-color: #f16a6f;
+}
+
+#word {
+    color: #7f14f1;
+}ul {
+    color: #5866d6;
+}
